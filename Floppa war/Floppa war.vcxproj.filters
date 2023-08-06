@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de origen">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Boton.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Menus.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Viewer.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="EntidadViewer.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="MapaViewer.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="PersonajesViewer.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Controller.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Model.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemigoModel.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="PersonajeModel.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="MapaModel.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="EntidadModel.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemigoViewer.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="ArmaModel.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="ArmasViewer.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="TipoProyectilViewer.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Boton.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Menus.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Viewer.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="EntidadViewer.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="MapaViewer.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="PersonajesViewer.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Controller.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="EntidadModel.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="MapaModel.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Model.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemigoModel.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="PersonajeModel.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemigoViewer.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="ArmaModel.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="ArmasViewer.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="TipoProyectilViewer.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="Arial.ttf">
+      <Filter>Archivos de recursos</Filter>
+    </Font>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="BotonJugar.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="BotonConfiguracion.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="BotonMultiplayer.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="BotonCancelar.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="Imagenes\BotonAceptar.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="Imagenes\BotonRegresar.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="Imagenes\BotonSalir.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="Imagenes\BotonSingleplayer.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="Imagenes\BotonTutorial.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="Imagenes\background.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="Imagenes\FloppaSpriteSheet.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="Imagenes\BotonSiguiente.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="Imagenes\BotonAnterior.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="Imagenes\NombreFloppa.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="Imagenes\NombreJinx.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="Imagenes\NombreSogga.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="Imagenes\JinxSpriteSheet.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="Imagenes\SoggaSpriteSheet.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="Imagenes\FondoJuego.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="Imagenes\TileSetMapa.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="Imagenes\prueba.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="Imagenes\Enemigo1SpriteSheet.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="Imagenes\Enemigo2SpriteSheet.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="Imagenes\Enemigo3SpriteSheet.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="Imagenes\Arma.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="Imagenes\BalaAK.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="Imagenes\Machete.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="Imagenes\BalaMachete.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="Imagenes\BarraVaciaVida.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="Imagenes\BarraVida.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="Imagenes\fin.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="Imagenes\Tutorial.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

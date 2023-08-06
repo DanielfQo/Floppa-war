@@ -1,0 +1,24 @@
+﻿  ArmaModel.cpp
+  ArmasViewer.cpp
+  Boton.cpp
+  Controller.cpp
+  EnemigoModel.cpp
+E:\Floppa war\Floppa war\EnemigoModel.cpp(17,73): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  EnemigoViewer.cpp
+  EntidadModel.cpp
+  EntidadViewer.cpp
+  main.cpp
+  MapaViewer.cpp
+  Menus.cpp
+  Model.cpp
+  PersonajeModel.cpp
+E:\Floppa war\Floppa war\PersonajeModel.cpp(10,18): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Floppa war\Floppa war\PersonajeModel.cpp(20,18): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Floppa war\Floppa war\PersonajeModel.cpp(30,18): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  PersonajesViewer.cpp
+  MapaModel.cpp
+E:\Floppa war\Floppa war\MapaModel.cpp(101,29): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  TipoProyectilViewer.cpp
+  Viewer.cpp
+  Generando código...
+  Floppa war.vcxproj -> E:\Floppa war\x64\Debug\Floppa war.exe
